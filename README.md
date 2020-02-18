@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/patrickpseguin/ITS-Engineering-DevOps/_apis/build/status/patrickpseguin.pipelines-java?branchName=master)](https://dev.azure.com/patrickpseguin/ITS-Engineering-DevOps/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
